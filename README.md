@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RadioCat01
+- 👋 Hi, I’m Pawan Hettiarachchi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently an Undergraduate
 - 💞️ I’m looking to collaborate on anything
