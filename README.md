@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://radiocatwrites.hashnode.dev/](https://radiocatwrites.hashnode.dev/)
 
-- 💬 Ask me about **Spring**
+- 💬 Ask me about **Spring** **Angular**
 
 - 📫 How to reach me **pwnkanishka@gmai.com**
 
