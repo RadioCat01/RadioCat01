@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://pawan-hettiarachchi.vercel.app/](https://pawan-hettiarachchi.vercel.app/)
 
-- ⚡ Fun fact **I don't think im funny :)**
+- ⚡ Fun fact **:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
