@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://radiocatwrites.hashnode.dev/](https://radiocatwrites.hashnode.dev/)
 
-- 💬 Ask me about **Spring** **Angular**
-
 - 📫 How to reach me **pwnkanishka@gmai.com**
 
 - 📄 Know about my experiences [https://pawan-hettiarachchi.vercel.app/](https://pawan-hettiarachchi.vercel.app/)
