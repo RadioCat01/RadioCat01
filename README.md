@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pawan Hettiarachchi 👋</h1>
-<h3 align="center">Software Developer | Lifelong Learner | Linux Guy</h3>
+<h3 align="center">Lifelong Learner | Linux Guy</h3>
 
 <p align="center">
   <a href="https://pawan-hettiarachchi.vercel.app/">Portfolio</a> •
